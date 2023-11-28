@@ -23,6 +23,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(220, 205, 177);
 }
 
 .app {
@@ -31,6 +32,8 @@ body {
   grid-template-columns: 34rem 44rem;
   column-gap: 4rem;
   align-items: start;
+  background-color: rgb(220, 205, 177);
+  border-radius: 2rem;
 }
 
 .button {
